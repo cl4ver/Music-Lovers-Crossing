@@ -3,8 +3,9 @@
 
 
 创建、分享专属音乐歌单，管理本地音乐，在本地进行播放。
-
+Create, share personalized music playlists, manage local music, and play it locally.
 ## 简介
+<img width="2356" height="1175" alt="2026-03-06 20 59 26" src="https://github.com/user-attachments/assets/2a3e5a12-ccfe-435d-8ed6-928ea098c1fe" />
 
 Music Lovers Crossing（爱乐评友会）是一个优雅的本地音乐管理网页应用，支持导入包含丰富元数据的 Excel 歌单，匹配本地音乐文件并进行播放，同时展示 AI 乐评、网友评价、艺术家介绍等详细信息。
 
