@@ -1,5 +1,5 @@
 # Music-Lovers-Crossing  爱乐评友会 
-爱乐评友会，创建可本地播放的专属歌单，分享它，收集别人的歌单。Music Lovers Crossing, create a personalized playlist that can be played locally, share it, and collect others' playlists.
+爱乐评友会，用一个HTML和excel，创建可本地播放的专属歌单，分享它，收集别人的歌单。Music Lovers Crossing, Use a html and excel to create a personalized playlist that can be played locally, share it, and collect others' playlists.
 
 
 创建、分享专属音乐歌单，管理本地音乐，在本地进行播放。
