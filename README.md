@@ -99,5 +99,6 @@ OPENWORK+AI编写
 MIT
 
 ---
+本网页采用AI编写，非专业开发，欢迎优化提升。
 
 网页贡献：红猪与吉娜唱片店（Porco Rosso and Gina's Record Store）
